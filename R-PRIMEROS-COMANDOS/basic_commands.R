@@ -42,3 +42,13 @@
 
   print(Var2)
 #Lists
+#lists are vectos that can containing another objects, like an arrays, variables, and another data structure type 
+#example
+#declare the variables that containing the array
+A=c(1,2,3,4,5,6,77)
+B=c("Hello","Free","Software")
+C=c("Hi","Goodbye",2,3,4)
+#declare the variable that containing the list function 
+D=list(A,B,C)
+#talk the variable D
+print(D)
